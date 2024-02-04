@@ -23,7 +23,7 @@ export default async function AuthRoute() {
     <div className="w-screen h-screen flex items-center justify-center">
       <Card>
         <CardHeader>
-          <CardTitle>Please Sign In</CardTitle>
+          <CardTitle>Please Sign in</CardTitle>
           <CardDescription>
             To Access Private Page You Have To Authenticated.
           </CardDescription>
